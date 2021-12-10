@@ -1,2 +1,2 @@
 # apeak
-PowerDisplay: Arduino + MAX7219 + PZEM 004T
+Arduino + MAX7219 + PZEM 004T

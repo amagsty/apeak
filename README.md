@@ -16,5 +16,7 @@ https://www.bilibili.com/video/BV1WL4y1H7wA/
 ![](vlog/aPeak.mp4_20211210_232638.668.jpg)
 ![](vlog/aPeak.mp4_20211210_232647.302.jpg)
 ![](vlog/aPeak.mp4_20211210_232708.163.jpg)
+![](vlog/Wh_display.jpg)
 
 模块安装涉及强电，务必断电操作~
+抛砖引玉，无需授权~ 要是能顺便帮忙宣传下B站账号就万分感谢啦：）
